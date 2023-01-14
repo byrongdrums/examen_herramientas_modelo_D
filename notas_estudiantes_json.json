@@ -1,0 +1,52 @@
+[
+  {
+    "Estudiante": "Byron Gallegos",
+    "Nota": 10,
+    "Ranking": 10
+  },
+  {
+    "Estudiante": "Marcela Benavides",
+    "Nota": 10,
+    "Ranking": 15
+  },
+  {
+    "Estudiante": "Yeltsin Castro",
+    "Nota": 9,
+    "Ranking": 20
+  },
+  {
+    "Estudiante": "Daniela Espinoza",
+    "Nota": 8,
+    "Ranking": 28
+  },
+  {
+    "Estudiante": "Jaime Zamora",
+    "Nota": 7,
+    "Ranking": 56
+  },
+  {
+    "Estudiante": "Daniela Saltos",
+    "Nota": 7,
+    "Ranking": 49
+  },
+  {
+    "Estudiante": "Melissa Pincay",
+    "Nota": 6,
+    "Ranking": 73
+  },
+  {
+    "Estudiante": "Joseph Banchon",
+    "Nota": 6,
+    "Ranking": 71
+  },
+  {
+    "Estudiante": "Juan Pacheco",
+    "Nota": 6,
+    "Ranking": 70
+  },
+  {
+    "Estudiante": "Rafael Sotomayor",
+    "Nota": 5,
+    "Ranking": 80
+  }
+]
